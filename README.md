@@ -66,15 +66,15 @@ Contains the main application logic, menus, cake and customer management, order 
 
 ## How to Run
 
-Compile the Java source files:
+### Compile the Java source files:
 
 ```bash
 javac -d /tmp/cake-build Cake_Ordering_Syetem/*.java
 ```
 
-## Run the application:
+### Run the application
 
-```
+```bash
 java -cp /tmp/cake-build Cake_Ordering_Syetem.CakeOrderingSystem
 ```
 
